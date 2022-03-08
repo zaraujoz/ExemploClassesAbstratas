@@ -10,4 +10,5 @@ public void setNome(String nome) {
     this.nome = nome;
 }
 
+public abstract String emitirSom();
 }

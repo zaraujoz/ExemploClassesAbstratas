@@ -10,4 +10,10 @@ public class Papagaio extends Ave {
         // TODO Auto-generated method stub
         return "Muito mal";
     }
+
+    @Override
+    public String emitirSom() {
+        // TODO Auto-generated method stub
+        return "Maôe";
+    }
 }

@@ -12,6 +12,10 @@ public class Aguia extends Ave{
     public void mensagem(){
         System.out.println("");
     }
-
+   @Override
+   public String emitirSom() {
+       // TODO Auto-generated method stub
+       return null;
+   }
     
 }
